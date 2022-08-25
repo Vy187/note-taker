@@ -7,6 +7,7 @@ This is an application for the writing and saving of notes. We are all busy and 
 * [Preview](#Preview)
 * [Link](#Link)
 * [Installation](#Installation)
+* [Server Startup](#Server-Startup)
 * [Packages](#Packages)
 * [License](#License)
 * [Contributing](#Contributing)
@@ -19,11 +20,14 @@ This is an application for the writing and saving of notes. We are all busy and 
 [Note Taker](https://vys-note-taker.herokuapp.com/)
 
 ## Installation
-npm i
+* npm i
+
+## Server Startup
+* npm start
 
 ## Packages
-* Express
-* Uuid
+* express
+* uuid
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
